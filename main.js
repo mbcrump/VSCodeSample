@@ -7,5 +7,5 @@ var Greeter = (function () {
     };
     return Greeter;
 })();
-var greeter = new Greeter(" Twitter");
+var greeter = new Greeter(" Twitter!!!");
 //# sourceMappingURL=main.js.map
